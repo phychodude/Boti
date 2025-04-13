@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Music Discord Bot
 
 A feature-rich music bot for Discord that utilizes **discord.js**, **erela.js**, **express**, and **dotenv**. The bot allows users to enjoy music playback in their Discord servers seamlessly.
@@ -11,7 +11,7 @@ A feature-rich music bot for Discord that utilizes **discord.js**, **erela.js**,
    ```bash
    git clone https://github.com/MusicBot.git
    cd MusicBot
-   ```
+   
 
 2. **Set up environment variables**  
    - Create a `.env` file in the root directory.
