@@ -17,7 +17,7 @@ A feature-rich music bot for Discord that utilizes **discord.js**, **erela.js**,
    - Add the following variables:
      ```
      DISCORD_BOT_TOKEN=<your-discord-bot-token>
-     SUPPORT_SERVER_LINK=<link-to-support-server>
+     SUPPORT_SERVER=<link-to-support-server>
      ```
 
 3. **Install dependencies**  
