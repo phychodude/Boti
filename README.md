@@ -1,4 +1,3 @@
-markdown
 # Music Discord Bot
 
 A feature-rich music bot for Discord that utilizes **discord.js**, **erela.js**, **express**, and **dotenv**. The bot allows users to enjoy music playback in their Discord servers seamlessly.
